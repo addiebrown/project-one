@@ -1,1 +1,2 @@
-print('This is my first python program...')
+print('This is our first project...Yay.')
+Random stuff
