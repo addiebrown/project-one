@@ -1,1 +1,1 @@
-gkey = "put key here!"
+gkey = "YOUR API KEY"
